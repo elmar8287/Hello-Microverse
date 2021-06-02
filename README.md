@@ -25,7 +25,7 @@ To get a local copy up and running follow these simple example steps.
 
 Make shure that all files in the same directory
 
-Open index.html file.
+Open main.html file.
 
 👤 **Author**
 
