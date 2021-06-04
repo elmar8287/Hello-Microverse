@@ -1,12 +1,42 @@
-# Hello-Microverse project
+# Hello Microverse
 
-> This is our fist week and the first project in github. 
+> Set up a "Hello Microverse" project.
 
-We will use html and css files in this project. Also we will use .gitignore file for ignore some files during commit
+![Screenshot](./scrn.png)
+
+Simple project using HTML and CSS with text "Hello Microverse!"
+
+## Built With
+
+- HTML/CSS
+- Node.JS
+
+## Getting Started
+
+To get a local copy up and running follow these simple example steps.
+
+Make sue that all files in same folder.
+
+### Prerequisites
+
+- Node.JS
 
 ## Author
 
 👤 **Elmar Abdulkarimov**
 
-- GitHub: [@githubhandle](https://github.com/elmar8287)
+- GitHub: [@elmar8287](https://github.com/elmar8287)
 
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Microverse
